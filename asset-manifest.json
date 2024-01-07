@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/system-design-est/static/css/main.184eda54.css",
+    "main.js": "/system-design-est/static/js/main.6a059963.js",
+    "static/js/787.16420f49.chunk.js": "/system-design-est/static/js/787.16420f49.chunk.js",
+    "index.html": "/system-design-est/index.html",
+    "main.184eda54.css.map": "/system-design-est/static/css/main.184eda54.css.map",
+    "main.6a059963.js.map": "/system-design-est/static/js/main.6a059963.js.map",
+    "787.16420f49.chunk.js.map": "/system-design-est/static/js/787.16420f49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.184eda54.css",
+    "static/js/main.6a059963.js"
+  ]
+}
